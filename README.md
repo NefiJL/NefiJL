@@ -1,4 +1,5 @@
-### Hi there 👋
+### HI! 
+my name is Nefi 😄
 ![Nefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefiJL&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiJL&layout=compact&bg_color=161616&text_color=ffffff&title_color=18f289)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,26 +1,18 @@
-### HI there 👋 I´m Nefi 👨‍💻
+  ## HI there 👋 I´m Nefi 👨‍💻
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NefiJL&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefiJL&layout=compact&theme=buefy&hide_border=true" /></a> |
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  
 ![Nefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefiJL&show_icons=true&theme=midnight-purple)
+  
+</div>
+
 
 ### technologies i use:
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiJL&layout=demo&theme=midnight-purple&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiJL&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **NefiJL/NefiJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

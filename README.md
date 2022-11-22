@@ -1,6 +1,8 @@
-  ## HI there 👋 I´m Nefi 👨‍💻
+  
 
 <div align="center">
+  
+  ## HI there 👋 I´m Nefi 👨‍💻
   
 ![Nefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefiJL&show_icons=true&theme=midnight-purple)
   

@@ -9,7 +9,7 @@
 </div>
 
 
-### technologies i use:
+### technologies that i use:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefiJL&layout=demo&theme=midnight-purple&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 <!--
